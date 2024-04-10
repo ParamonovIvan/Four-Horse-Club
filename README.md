@@ -24,5 +24,6 @@
 
 #### Внешний вид страницы клуба
 
-![Uploading converted.png…]()
+![converted](https://github.com/ParamonovIvan/Four-Horse-Club/assets/131868856/15059814-0f14-4851-bcda-c42f12497094)
+
 
